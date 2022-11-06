@@ -1,3 +1,31 @@
 body {
-  background-color: aliceblue;
+  background-color:lightblue;
+}
+.table-container{
+  padding-left:25%;
+}
+h1{
+  text-align:center;
+  font-size:3rem;
+}
+
+table{
+  width:66%;
+}
+
+thead{
+font-size:1.6rem;
+}
+
+td{
+  font-size:1.2rem;
+  border: 2px solid black;
+}
+
+table, thead, td{
+  border-collapse:collapse;
+}
+
+caption{
+  font-size:1rem;
 }
